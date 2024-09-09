@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/negin-khademi.github.io/eat--n-split/static/css/main.238e1b0e.css",
+    "main.js": "/negin-khademi.github.io/eat--n-split/static/js/main.87aceffe.js",
+    "index.html": "/negin-khademi.github.io/eat--n-split/index.html",
+    "main.238e1b0e.css.map": "/negin-khademi.github.io/eat--n-split/static/css/main.238e1b0e.css.map",
+    "main.87aceffe.js.map": "/negin-khademi.github.io/eat--n-split/static/js/main.87aceffe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.238e1b0e.css",
+    "static/js/main.87aceffe.js"
+  ]
+}
